@@ -13,9 +13,10 @@ public class stackTest {
         System.out.println("popped off: ");
         System.out.println();
         stack.printStack();
+        // stack.pop();
 
 
-        // System.out.println("Pop box  ----> "popBox);
+        System.out.println("Popped item  ----> " + popBox);
     }
     
 }
