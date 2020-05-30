@@ -3,9 +3,11 @@
 Hello this is DataStructures and algorithms. This is all in java.
 
 data structures, searching and sorting algorithms explored: 
+    
+    
     - stacks with visualising 
 
-    
+
     - queues
     - linked lists
     - doubly linked lists
