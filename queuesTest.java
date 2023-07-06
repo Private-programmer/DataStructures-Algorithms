@@ -10,7 +10,7 @@ public class queuesTest {
 
         System.out.println();
         System.out.println("dequeue: ");
-        String removed = q.denueue();
+        q.denueue();
         q.printQueue();
         System.out.println("first queue removed");
 
