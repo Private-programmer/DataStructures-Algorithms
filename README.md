@@ -5,20 +5,22 @@ Hello this is DataStructures and algorithms. This is all in java.
 data structures, searching and sorting algorithms explored: 
     
     
-    - stacks with visualising 
-
-
-    - queues
-    - linked lists
+    - stacks [done]
+    - queues [done]
+    - priority queuepq
+    - linked lists 
     - doubly linked lists
-    - linear search 
-    - binary search
-    - hashsets and hashmaps
-    - selection sort
-    - insertion sort
-    - merge sort
-    - quick sort
-    - trees
-        - DFS
-        - BFS
+    - hashsets, hashtable and hashmaps
+    - Heap
+    - sort
+        - selection sort
+        - insertion sort
+        - merge sort
+        - quick sort
+    - Search   
+        - linear search 
+        - binary search
+        - trees
+            - DFS
+            - BFS
     
