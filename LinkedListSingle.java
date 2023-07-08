@@ -3,7 +3,7 @@ public class LinkedListSingle {
     LinkedListSingle next;
 
     public LinkedListSingle(String d) {
-        val = d;
-        next = null;
+        this.val = d;
+        this.next = null;
     }
 }
