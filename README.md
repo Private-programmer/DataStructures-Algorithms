@@ -8,9 +8,9 @@ self made implementation of below and then using java libraries for these
 
     - stacks [done]
     - queues [done]
-    - priority queuepq
-    - linked lists
-    - doubly linked lists
+    - priority queuepq [TODO: ]
+    - linked lists [TODO: may need more logic on linked list]
+    - doubly linked lists [TODO: may need more logic on linked list]
     - hashsets, hashtable and hashmaps
     - Heap
     - sort
